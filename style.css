@@ -1,4 +1,18 @@
 img {
-border: 1px solid black;
+    border: 1px solid black;
+}
 
+body {
+    background-color: ivory;
+    font-family: verdana;
+}
+
+h1{
+    border: 3px; 
+    color: orange;
+    font-size: 25px;
+    border-style: dotted;
+    text-align: center; 
+    border-color: yellow; 
+    font-family: arial;
 }
