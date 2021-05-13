@@ -12,6 +12,7 @@ body{
 .mainheading{
     font-size: 50px;
     font-stretch: expanded;
+    font-family: arial;
     color: dodgerblue;
     border: 5px dotted orange;
 }
