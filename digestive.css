@@ -1,10 +1,11 @@
 img {
     border: 5px dashed black;
+    padding: 5px;
 }
 
 body{
-    background-color: grey;
-    color: black;
+    background-color: lightblue;
+    color: navy;
     font-family: times;
 }
 
@@ -12,6 +13,7 @@ body{
     font-size: 50px;
     font-stretch: expanded;
     color: dodgerblue;
+    border: 5px dotted orange;
 }
 
 .subheading{
