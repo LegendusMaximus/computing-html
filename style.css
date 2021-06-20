@@ -16,3 +16,19 @@ h1{
     border-color: yellow; 
     font-family: arial;
 }
+
+
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #00b2a9;
+  border-radius: 6px;
+  outline: none;
+}
+
+
+
